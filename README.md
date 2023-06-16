@@ -31,7 +31,7 @@ Please install the following:
 ## Quickstart
 
 ```sh
-git clone https://github.com/PatrickAlphaC/denver-security
+git clone https://github.com/ThomasHeim11/Smart-Contract-Security-Foundary.git
 cd denver-security
 forge install
 ```
